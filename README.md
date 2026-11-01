@@ -3,3 +3,5 @@
 Een repository voor oefeningen uit de les digitale werkomgeving 2. HoGent 2026-27
 
 Ik ga hier wat info aanvullen
+
+Hier nog een zinnetje
