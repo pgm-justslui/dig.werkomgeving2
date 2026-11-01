@@ -6,3 +6,4 @@ Ik ga hier wat info aanvullen
 
 Hier nog een zinnetje
 En nu hier nog iets en via de browser commiten en zo laten
+En nu hier nog iets en via de browser commiten en aanvullen.
